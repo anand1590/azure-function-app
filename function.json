@@ -1,5 +1,5 @@
 {
-  "scriptFile": "__init__.py",
+  "scriptFile": "randomdrinks.py",
   "bindings": [
     {
       "authLevel": "anonymous",
